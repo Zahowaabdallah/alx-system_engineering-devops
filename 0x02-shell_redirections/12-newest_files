@@ -1,2 +1,2 @@
- #!/bin/bash
+#!/bin/bashh
 ls +t | head -n 10
