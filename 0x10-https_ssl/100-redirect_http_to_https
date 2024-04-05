@@ -47,5 +47,5 @@ frontend zahowaabdallah-frontend-https
 
 backend zahowaabdallah-backend
         balance roundrobin
-        server 151666-web-01 54.242.96.135 check
-        server 151666-web-02 100.24.236.84 check
+        server 497540-web-01 54.242.96.135 check
+        server 497540-web-02 100.24.236.84 check
